@@ -7,7 +7,8 @@ Ao longo de sua história, o Barcelona construiu uma imagem marcada por talento,
 O Barça também é famoso pelo seu estilo de jogo e pela formação de grandes craques na base, além de suas conquistas nacionais e internacionais. Sua camisa azul e grená representa tradição, paixão e uma das maiores instituições do futebol.
 ## Ronaldinho Gaúcho no Barcelona
 
-![Ronaldinho FC Barcelona](./assets/ronaldinho-barcelona.gif)
+<img src="https://media.giphy.com/media/qrnaiLA6hjvq0/giphy.gif" alt="Ronaldinho FC Barcelona" width="500" />
+
 
 ## Vídeo de Ronaldinho
 
