@@ -9,7 +9,7 @@ O Barça também é famoso pelo seu estilo de jogo e pela formação de grandes 
 
 ## Ronaldinho Gaúcho no Barcelona
 
-![Ronaldinho](https://media1.tenor.com/m/4OebQc8sUWEAAAAd/kk.gif)
+![Ronaldinho](https://media.tenor.com/4bq8thoHgIIAAAAM/fc-barcelona-me.gif)
 
 ## Vídeo de Ronaldinho
 
